@@ -1,1 +1,2 @@
-# An Alien Invaders game using Star Trek Sprites written in Python with Pygame
+# Alien Invaders
+Alien Invaders Game using Star Trek sprites written in Python with Pygame
